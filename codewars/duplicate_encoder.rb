@@ -18,7 +18,7 @@ end
 # end
 
 # --// Tests //--
-p duplicate_encode("din")#,"(((")
-p duplicate_encode("recede")#,"()()()")
-p duplicate_encode("Success")#,")())())","should ignore case")
-p duplicate_encode("(( @")#,"))((")
+# p duplicate_encode("din")#,"(((")
+# p duplicate_encode("recede")#,"()()()")
+# p duplicate_encode("Success")#,")())())","should ignore case")
+# p duplicate_encode("(( @")#,"))((")
